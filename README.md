@@ -8,7 +8,7 @@
 
 
 
-### Core Concepts (19%)
+#### Core Concepts (19%)
 
 - Understand the Kubernetes API primitives.
 
@@ -29,7 +29,7 @@
 
 - Configure a Highly-Available Kubernetes cluster.
 
-- Know where to get the Kubernetes release binaries.
+- [Know where to get the Kubernetes release binaries.](https://github.com/petersonwsantos/certified-Kubernetes-administrator/blob/master/installation-configuration-validation/index.md#know-where-to-get-the-kubernetes-release-binaries)
 
 - Provision underlying infrastructure to deploy a Kubernetes cluster.
 

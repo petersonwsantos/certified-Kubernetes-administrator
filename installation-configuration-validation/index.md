@@ -17,7 +17,7 @@ A Kubernetes binary release includes all the Kubernetes binaries as well as the 
 - kube-scheduler
 
 
-Metod 1
+Method 1
 
 ```
 $ wget https://github.com/kubernetes/kubernetes/releases/download/v1.9.0/kubernetes.tar.gz
@@ -67,7 +67,7 @@ kubernetes
 3 directories, 26 files
 ```
 
-Metod 2
+Method 2
 ```
 $ export KUBE_VERSION=v1.9.0
 
