@@ -21,6 +21,7 @@
 
       .markmap-link {
         fill: none;
+        preset: colorful;
       }
     ]]></style>
   </defs>
