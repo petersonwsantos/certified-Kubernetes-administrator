@@ -8,40 +8,40 @@
 
 
 
-#### Core Concepts (19%)
+#### 1. Core Concepts (19%)
 
-- Understand the Kubernetes API primitives.
+- 1.1. Understand the Kubernetes API primitives.
 
-- Understand the Kubernetes cluster architecture.
+- 1.2. Understand the Kubernetes cluster architecture.
 
-- Understand Services and other network primitives.
-
-
-
-#### Installation, Configuration & Validation (12%)
+- 1.3. Understand Services and other network primitives.
 
 
-- Design a Kubernetes cluster.
 
-- Install Kubernetes masters and nodes, including the use of TLS bootstrapping.
+#### 2. Installation, Configuration & Validation (12%)
 
-- Configure secure cluster communications.
 
-- Configure a Highly-Available Kubernetes cluster.
+- 2.1. Design a Kubernetes cluster.
 
-- [Know where to get the Kubernetes release binaries.](https://github.com/petersonwsantos/certified-Kubernetes-administrator/blob/master/installation-configuration-validation/index.md#know-where-to-get-the-kubernetes-release-binaries)
+- 2.2. Install Kubernetes masters and nodes, including the use of TLS bootstrapping.
 
-- Provision underlying infrastructure to deploy a Kubernetes cluster.
+- 2.3. Configure secure cluster communications.
 
-- Choose a network solution.
+- 2.4. Configure a Highly-Available Kubernetes cluster.
 
-- Choose your Kubernetes infrastructure configuration.
+- 2.5. [Know where to get the Kubernetes release binaries.](https://github.com/petersonwsantos/certified-Kubernetes-administrator/blob/master/doc/2.5.md)
 
-- Run end-to-end tests on your cluster.
+- 2.6. Provision underlying infrastructure to deploy a Kubernetes cluster.
 
-- Analyse end-to-end tests results.
+- 2.7. Choose a network solution.
 
-- Run Node end-to-end tests.
+- 2.8. Choose your Kubernetes infrastructure configuration.
+
+- 2.9. Run end-to-end tests on your cluster.
+
+- 2.10. Analyse end-to-end tests results.
+
+- 2.11.  Run Node end-to-end tests.
 
 
 #### Security (12%)
