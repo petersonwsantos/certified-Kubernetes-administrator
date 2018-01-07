@@ -29,7 +29,7 @@
 
 - 2.4. Configure a Highly-Available Kubernetes cluster.
 
-- 2.5. [Know where to get the Kubernetes release binaries.](https://github.com/petersonwsantos/certified-Kubernetes-administrator/blob/master/doc/2.5.md)
+- 2.5. [Know where to get the Kubernetes release binaries](docs/2.5.md)
 
 - 2.6. Provision underlying infrastructure to deploy a Kubernetes cluster.
 
