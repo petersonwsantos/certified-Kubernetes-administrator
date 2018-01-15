@@ -1,7 +1,12 @@
+UNDER CONSTRUCTION !!!!!
+
+SORRY 
+
+
+
 ## Certified Kubernetes Administrator (CKA)
 
 ** Exam Curriculum 1.8.0 **
-
 
 
 [Certification Site](https://www.cncf.io/certification/expert/)
