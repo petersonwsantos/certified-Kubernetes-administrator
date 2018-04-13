@@ -6,7 +6,7 @@ SORRY
 
 ## Certified Kubernetes Administrator (CKA)
 
-** Exam Curriculum 1.8.0 **
+** Exam Curriculum 1.9.0 **
 
 
 [Certification Site](https://www.cncf.io/certification/expert/)
@@ -49,114 +49,112 @@ SORRY
 - 2.11.  Run Node end-to-end tests.
 
 
-#### Security (12%)
+#### 3. Security (12%)
 
 
-- Know how to configure authentication and authorization.
+- 3.1. Know how to configure authentication and authorization.
 
-- Understand Kubernetes security primitives.
+- 3.2. Understand Kubernetes security primitives.
 
-- Know to configure network policies.
+- 3.3. Know to configure network policies.
 
-- Create and manage TLS certificates for cluster components.
+- 3.4. Create and manage TLS certificates for cluster components.
 
-- Work with images securely.
+- 3.5. Work with images securely.
 
-- Define security contexts.
+- 3.6. Define security contexts.
 
-- Secure persistent key value store.
+- 3.7. Secure persistent key value store.
 
-- Work with role-based access control.
-
-
-#### Scheduling (5%)
-
-- Use label selectors to schedule Pods.
-
-- Understand the role of DaemonSets.
-
-- Understand how resource limits can affect
-
-- Pod scheduling.
-
-- Understand how to run multiple schedulers and how to configure Pods to use them.
-
-- Manually schedule a pod without a scheduler.
-
-- Display scheduler events.
-
-- Know how to configure the Kubernetes scheduler.
+- 3.8. Work with role-based access control.
 
 
+#### 4. Scheduling (5%)
 
-#### Application Lifecycle (8%)
+- 4.1. Use label selectors to schedule Pods.
 
-- Management Understand Deployments and how to perform rolling updates and rollbacks.
+- 4.2. Understand the role of DaemonSets.
 
-- Know various ways to configure applications.
+- 4.3. Understand how resource limits can affect Pod scheduling.
 
-- Know how to scale applications.
+- 4.4. Understand how to run multiple schedulers and how to configure Pods to use them.
 
-- Understand the primitives necessary to create a self-healing application.
+- 4.5 Manually schedule a pod without a scheduler.
 
+- 4.6 Display scheduler events.
 
-#### Storage (7%)
-
-- Understand persistent volumes and know how to create them.
-
-- Understand access modes for volumes.
-
-- Understand persistent volume claims primitive.
-
-- Understand Kubernetes storage objects.
-
-- Know how to configure applications with persistent storage.
-
-
-#### Networking (11%)
-
-- Understand the networking configuration on the cluster nodes.
-
-- Understand Pod networking concepts.
-
-- Understand service networking.
-
-- Deploy and configure network load balancer.
-
-- Know how to use Ingress rules.
-
-- Know how to configure and use the cluster DNS.
-
-- Understand CNI.
+- 4.7. Know how to configure the Kubernetes scheduler.
 
 
 
-#### Logging/Monitoring (5%)
+#### 5. Application Lifecycle Management (8%)
 
-- Understand how to monitor all cluster components.
+- 5.1. Understand Deployments and how to perform rolling updates and rollbacks.
 
-- Understand how to monitor applications.
+- 5.2. now various ways to configure applications.
 
-- Manage cluster component logs.
+- 5.3. Know how to scale applications.
 
-- Manage application logs.
-
-
-#### Cluster Maintenance (11%)
-
-- Understand Kubernetes cluster upgrade process.
-
-- Facilitate operating system upgrades.
-
-- Implement backup and restore methodologies.
+- 5.4. Understand the primitives necessary to create a self-healing application.
 
 
-#### Troubleshooting (10%)
+#### 6. Storage (7%)
 
-- Troubleshoot application failure.
+- 6.1. Understand persistent volumes and know how to create them.
 
-- Troubleshoot control plane failure.
+- 6.2. Understand access modes for volumes.
 
-- Troubleshoot worker node failure.
+- 6.3 Understand persistent volume claims primitive.
 
-- Troubleshoot networking.
+- 6.4. nderstand Kubernetes storage objects.
+
+- 6.5. Know how to configure applications with persistent storage.
+
+
+#### 7. Networking (11%)
+
+- 7.1. Understand the networking configuration on the cluster nodes.
+
+- 7.2. Understand Pod networking concepts.
+
+- 7.3. Understand service networking.
+
+- 7.4. Deploy and configure network load balancer.
+
+- 7.5. Know how to use Ingress rules.
+
+- 7.6. Know how to configure and use the cluster DNS.
+
+- 7.7. Understand CNI.
+
+
+
+#### 8. Logging/Monitoring (5%)
+
+- 8.1 Understand how to monitor all cluster components.
+
+- 8.2. Understand how to monitor applications.
+
+- 8.3. Manage cluster component logs.
+
+- 8.4. Manage application logs.
+
+
+#### 9. Cluster Maintenance (11%)
+
+- 9.1. Understand Kubernetes cluster upgrade process.
+
+- 9.2. Facilitate operating system upgrades.
+
+- 9.3. Implement backup and restore methodologies.
+
+
+#### 10. Troubleshooting (10%)
+
+- 10.1. Troubleshoot application failure.
+
+- 10.2. Troubleshoot control plane failure.
+
+- 10.3. Troubleshoot worker node failure.
+
+- 10.4. Troubleshoot networking.
