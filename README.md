@@ -1,7 +1,5 @@
 UNDER CONSTRUCTION !!!!!
 
-SORRY 
-
 
 
 ## Certified Kubernetes Administrator (CKA)
