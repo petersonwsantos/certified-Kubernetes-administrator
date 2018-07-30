@@ -91,7 +91,7 @@ SORRY
 
 - 5.1. Understand Deployments and how to perform rolling updates and rollbacks.
 
-- 5.2. now various ways to configure applications.
+- 5.2. Know various ways to configure applications.
 
 - 5.3. Know how to scale applications.
 
@@ -106,7 +106,7 @@ SORRY
 
 - 6.3 Understand persistent volume claims primitive.
 
-- 6.4. nderstand Kubernetes storage objects.
+- 6.4. Unnderstand Kubernetes storage objects.
 
 - 6.5. Know how to configure applications with persistent storage.
 
